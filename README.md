@@ -1,0 +1,1 @@
+# Applying-DISA-STIG-Compliance-In-Scanning-Templates
