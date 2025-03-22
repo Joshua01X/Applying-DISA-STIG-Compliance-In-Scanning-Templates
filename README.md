@@ -19,7 +19,7 @@
    - **Virtual Machines (VMs)**: Windows Server and Linux distributions as targets for compliance scans.
 4. **Other Tools:**
    - PowerShell and Bash for system configuration/programmatic vulnerability remediations
-> <a href="https://github.com/Joshua01X/Section-Under-Construction">see here</a> to redirect to the links of remediation scripts
+> <a href="https://github.com/Joshua01X/Section-Under-Construction">see here</a> to get redirected to the remediation scripts
 ---
 
 ## What is DISA STIG?
